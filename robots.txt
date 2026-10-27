@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruanfirminomarketing-pixel.github.io/blackfridaycrowntraining/sitemap.xml
